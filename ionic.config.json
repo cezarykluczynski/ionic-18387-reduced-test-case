@@ -1,0 +1,7 @@
+{
+  "name": "ionic-18387-reduced-test-case",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

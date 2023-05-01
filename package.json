@@ -91,7 +91,7 @@
     "wdio-appium-service": "0.2.3",
     "wdio-jasmine-framework": "0.3.6",
     "wdio-spec-reporter": "0.1.5",
-    "webdriverio": "4.13.2",
+    "webdriverio": "8.8.8",
     "ws": "3.3.2"
   },
   "description": "An Ionic project",
